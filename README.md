@@ -1,4 +1,7 @@
-# Python Crash Course
+<h1 align="left">
+  Python Crash Course
+  <img src="https://views-counter.vercel.app/badge?pageId=hacker-knight%2Fpython-crash-course" alt="Views Counter"align="right">
+</h1>
 
 ## Python Data Types
 <img width="888" height="412" alt="image" src="https://github.com/user-attachments/assets/332273e8-f504-4293-ba5b-52ac008b8e57" />
